@@ -1,0 +1,9 @@
+{"time":"2024-12-22T19:48:43.5950318+08:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-12-22T19:48:43.5955466+08:00","level":"INFO","msg":"created symlink","path":"D:\\python_mx\\Pytorch-UNet-master跑\\wandb\\run-20241222_194843-bxp52a4d\\logs\\debug-core.log"}
+{"time":"2024-12-22T19:48:43.7296712+08:00","level":"INFO","msg":"created new stream","id":"bxp52a4d"}
+{"time":"2024-12-22T19:48:43.7296712+08:00","level":"INFO","msg":"stream: started","id":"bxp52a4d"}
+{"time":"2024-12-22T19:48:43.7296712+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bxp52a4d"}}
+{"time":"2024-12-22T19:48:43.7296712+08:00","level":"INFO","msg":"sender: started","stream_id":"bxp52a4d"}
+{"time":"2024-12-22T19:48:43.7296712+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"bxp52a4d"}}
+{"time":"2024-12-22T19:48:44.7258724+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-22T22:10:06.5143763+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/anony-mouse-188967943213239893/U-Net/bxp52a4d/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
